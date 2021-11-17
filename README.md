@@ -25,4 +25,4 @@ Passwords are generated using cryptographically strong secrets module.
 5. It is strongly discouraged to include personal information in your passwords.
 
 ###### As tested on Windows 10 Home 21H1
-###### Available under the MIT Licence
+###### Available under the MIT License
