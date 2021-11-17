@@ -275,7 +275,7 @@ def main():
 
     def generate():
         """
-        Generate password
+        Generate password with current policy
         :return: None
         """
         global pwd
