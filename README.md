@@ -13,10 +13,10 @@ Password generator for creating strong passwords made using CPython. GUI made us
 9. The generated password gets copied to your clipboard.
 
 ## Screenshot
-![Screenshot of main window os Password Generator](screenshot.png)
+![Screenshot of main window of Password Generator](screenshot.png)
 
 ## Passwords
-1. Passwords of length greater than 12 are recommended.
+1. Passwords of length greater than 8 are recommended.
 2. A mixture of alphabets (lowercase and uppercase), numbers and symbols are recommended.
 3. Reusing passwords is strongly discouraged.
 4. Using a password manager is recommended if you can't remember passwords.
