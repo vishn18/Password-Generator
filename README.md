@@ -1,5 +1,7 @@
 # Password-Generator
-Password generator for creating strong passwords made using CPython. GUI made using tkinter. Passwords are generated using cryptographically strong secrets module. 
+Password generator for creating strong passwords made using CPython.  
+GUI made using tkinter.  
+Passwords are generated using cryptographically strong secrets module. 
 
 ## How To Use
 1. Run ***main\gui.pyw***. 
@@ -12,8 +14,6 @@ Password generator for creating strong passwords made using CPython. GUI made us
 8. Press 'Copy' to copy currently generated password.
 9. The generated password gets copied to your clipboard.
 
-###### As tested on Windows 10 Home 21H1
-
 ## Screenshot
 ![Screenshot of main window of Password Generator](screenshot.png)
 
@@ -24,4 +24,5 @@ Password generator for creating strong passwords made using CPython. GUI made us
 4. Using a password manager is recommended if you can't remember passwords.
 5. It is strongly discouraged to include personal information in your passwords.
 
+###### As tested on Windows 10 Home 21H1
 ###### Available under the MIT Licence
