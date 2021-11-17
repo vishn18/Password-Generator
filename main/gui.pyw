@@ -1,5 +1,7 @@
 """
-Password Generator made using tkinter
+Password generator for creating strong passwords made using CPython.
+GUI made using tkinter.
+Passwords are generated using cryptographically strong secrets module.
 """
 import sys
 import secrets
