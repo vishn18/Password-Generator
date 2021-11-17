@@ -12,6 +12,8 @@ Password generator for creating strong passwords made using CPython. GUI made us
 8. Press 'Copy' to copy currently generated password.
 9. The generated password gets copied to your clipboard.
 
+###### As tested on Windows 10 Home 21H1
+
 ## Screenshot
 ![Screenshot of main window of Password Generator](screenshot.png)
 
